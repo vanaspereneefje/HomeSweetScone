@@ -138,7 +138,7 @@ const displayBakeryProducts = (bakeryList) => {
     addCartBox.appendChild(addCart);
 
     const infoIcon = document.createElement("img");
-    infoIcon.src = "./Images/Info-icon.png";
+    infoIcon.src = "./Images/info-icon.png";
     infoIcon.style.height = "40px";
     infoIcon.className = "iIcon";
     buttonBox.appendChild(infoIcon);
